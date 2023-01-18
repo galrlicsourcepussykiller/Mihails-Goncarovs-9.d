@@ -1,0 +1,23 @@
+////#include <iostream>
+////using namespace std;
+////int main() {
+////	int age;
+////	cin >> age;
+////	if (age >= 0 && age <= 100) { cout << "ok"; }
+////	else cout << "wrong";
+////	string name;
+////	cin >> name;
+////	if (name == "mihails" || name == "Mihails") { cout << "ok"; }
+////	else cout << "wrong";
+////}
+//#include <iostream>
+//	using namespace std;
+//	int main() {
+//		int catage, dogage;
+//		cin >> catage >> dogage;
+//		if (catage > 0 && catage< 20)
+//			cout << "cat";
+//		else cout << "cat is too old" << endl;
+//		if (dogage > 0 && dogage < 20) { cout << "dog"; }
+//		else cout << "dog is too old" << endl;
+//	}
